@@ -1,7 +1,7 @@
 
 Factuality Check Protocol (FCP) – Official Repository
 
-Welcome to the official public archive of the Factuality Check Protocol (FCP) used in the YouTube investigative documentary series created by Royal Insane Nisha E A’zam.
+Welcome to the official public archive of the Factuality Check Protocol (FCP) used in the YouTube investigative documentary series created by Fact and Research Department (FRD)
 
 This repository exists to ensure full transparency, source-verified facts, and open public access to all evidence referenced in the videos.
 
